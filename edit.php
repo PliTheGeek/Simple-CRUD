@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CRUD PHP dan MySQLi - WWW.MALASNGODING.COM</title>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Edit Data</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <body>
  
-	<h2>CRUD DATA MAHASISWA - WWW.MALASNGODING.COM</h2>
+	
 	<br/>
 	<a href="index.php">KEMBALI</a>
 	<br/>
 	<br/>
-	<h3>EDIT DATA MAHASISWA</h3>
+	<h5>Edit Data</h5>
  
 	<?php
 	include 'koneksi.php';
